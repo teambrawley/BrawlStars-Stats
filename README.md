@@ -22,6 +22,11 @@ Get Your BrawlStars Stats
   - `/v1/brawlers/:ID` Specific Brawler's Information
   - [`/v1/battlelog/:TAG`](https://bs.is-a.dev/v1/battlelog/) Player's Battlelog
   
+  
+  ### License 
+  
+  ``` APACHE 2.0 License ```
+  
 
 
  
