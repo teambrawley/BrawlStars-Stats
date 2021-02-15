@@ -26,7 +26,7 @@ Get Your BrawlStars Stats With [`bs-api`](https://bs.is-a.dev)
   
   ### About 
   
-  Bs-api known as Brawl Stars Stats API is a service where you can get your brawlstars stats easily.
+  Bs-api known as Brawl Stars Stats API is a service where you can get your brawlstars stats easily. Feel Free To Create An Issue If You Have Any Suggestions Or Questions.
   
   
   
