@@ -9,7 +9,7 @@ Get Your BrawlStars Stats
  
 - [`/support/:CODE`](https://bs.is-a.dev/support/) Content Creator Code
 
-- [`/clubs/:TAG](https://bs.is-a.dev/clubs`) Clubs
+- [`/clubs/:TAG`](https://bs.is-a.dev/clubs`) Clubs
 
 - [`/rankings/`](https://bs.is-a.dev/rankings/) Rankings
   - [`/rankings/clubs/:CODE`](https://bs.is-a.dev/rankings/clubs/) Clubs
