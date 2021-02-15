@@ -17,10 +17,10 @@ Get Your BrawlStars Stats
 
 - [`/add/:TAG`](https://bs.is-a.dev/add) Add A Player
 
-- `/v1` Version 1.0.0
-  - `/v1/brawlers` List Of Every Brawlers ( StarPowers, Gadgets )
+- [`/v1`](https://bs.is-a.dev/v1) Version 1.0.0
+  - [`/v1/brawlers`](https://bs.is-a.dev/v1/brawlers) List Of Every Brawlers ( StarPowers, Gadgets )
   - `/v1/brawlers/:ID` Specific Brawler's Information
-  - `/v1/battlelog/:TAG` Player's Battlelog
+  - [`/v1/battlelog/:TAG`](https://bs.is-a.dev/v1/battlelog/) Player's Battlelog
   
 
 
