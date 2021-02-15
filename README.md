@@ -5,6 +5,7 @@ Get Your BrawlStars Stats
 ### Directory 
 
 - `/` Home
+
    -`/:TAG` Players
  
 - `/support/:CODE` Content Creator Code
