@@ -4,18 +4,18 @@ Get Your BrawlStars Stats
 
 ### Directory 
 
-- `[/](https://bs.is-a.dev)` Home
+- [`/`](https://bs.is-a.dev) Home
    - `/:TAG` Players
  
-- `[/support/:CODE](https://bs.is-a.dev/support/)` Content Creator Code
+- [`/support/:CODE`](https://bs.is-a.dev/support/) Content Creator Code
 
-- `[/clubs/:TAG](https://bs.is-a.dev/clubs)` Clubs
+- [`/clubs/:TAG](https://bs.is-a.dev/clubs`) Clubs
 
-- `[/rankings/](https://bs.is-a.dev/rankings/)` Rankings
-  - `[/rankings/clubs/:CODE](https://bs.is-a.dev/rankings/clubs/)` Clubs
-  - `[/rankings/players/:CODE](https://bs.is-a.dev/rankings/players/)` Players
+- [`/rankings/`](https://bs.is-a.dev/rankings/) Rankings
+  - [`/rankings/clubs/:CODE`](https://bs.is-a.dev/rankings/clubs/) Clubs
+  - [`/rankings/players/:CODE`](https://bs.is-a.dev/rankings/players/) Players
 
-- `[/add/:TAG](https://bs.is-a.dev/add)` Add A Player
+- [`/add/:TAG`](https://bs.is-a.dev/add) Add A Player
 
 - `/v1` Version 1.0.0
   - `/v1/brawlers` List Of Every Brawlers ( StarPowers, Gadgets )
