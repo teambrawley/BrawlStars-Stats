@@ -25,7 +25,8 @@ Get Your BrawlStars Stats
   
   ### License 
   
-  ``` APACHE 2.0 License ```
+  ``` 
+  APACHE 2.0 License ```
   
 
 
