@@ -32,7 +32,7 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   
   ### Disclaimer 
   
-  This Project Was Made By A Fan Of Supercell Games And Not Affiliate With Supercell Or Brawl Stars. This Project Was Managed And Owned By [`@brawlie Team`](https://github.com/brawlie). 
+  This Project Was Made By A Fan Of Supercell Games And Not Affiliate With Supercell Or Brawl Stars. This Project Was Managed And Owned By [`@brawlie Team`](https://github.com/brawlie). This API Isn't An Official API From BrawlStars.
   
   
   
