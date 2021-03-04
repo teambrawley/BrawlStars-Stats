@@ -6,6 +6,8 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
 
 - [`/`](https://cr.is-a.dev) Home
    - `/:TAG` Players
+
+- [`/brawlers/:TAG`](https://cr.is-a.dev/brawlers/TAG) Get A Player's Brawlers 
  
 - [`/support/:CODE`](https://cr.is-a.dev/support/) Content Creator Code
 
