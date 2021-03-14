@@ -1,4 +1,3 @@
-# BrawlStars Stats
 Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
 
 
