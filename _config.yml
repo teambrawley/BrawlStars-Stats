@@ -1,0 +1,11 @@
+title: 
+baseurl:      https://cr.is-a.dev
+paginate:     1
+locale:       "en"
+
+author:
+  name:       BrawlStars
+  url:        https://cr.is-a.dev
+
+github:
+  is_project_page: false
