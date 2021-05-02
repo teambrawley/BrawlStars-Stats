@@ -28,7 +28,10 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
  ### Websocket
  
   *  Websocket - `wss://wscr.is-a.dev`
+  
   *   ``` Send A Tag To The Server => Response Data To The Client```
+
+
   *```Example :
 const WebSocket = require('ws')
 const ws = new WebSocket('wss://wscr.is-a.dev');
