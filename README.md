@@ -28,8 +28,8 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
  ### Websocket
  
   *  Websocket - `wss://wscr.is-a.dev`
-     - ``` Send A Tag To The Server => Response Data To The Client
-Example :
+  *   ``` Send A Tag To The Server => Response Data To The Client```
+  *```Example :
 const WebSocket = require('ws')
 const ws = new WebSocket('wss://wscr.is-a.dev');
 ws.onopen = function open() {
@@ -41,7 +41,7 @@ ws.onopen = function open() {
 };```
      
   
-  ### About 
+### About 
   
   Bs-api known as Brawl Stars Stats API is a service where you can get your brawlstars stats easily. Feel Free To Create An Issue If You Have Any Suggestions Or Questions.
   
