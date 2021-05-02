@@ -18,14 +18,17 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   - [`/rankings/clubs/:CODE`](https://cr.is-a.dev/rankings/clubs/) Clubs
   - [`/rankings/players/:CODE`](https://cr.is-a.dev/rankings/players/) Players
 
-- [`/add/:TAG`](https://cr.is-a.dev/add) Add A Player
+- [`/add/:TAG?code=PASSWORD`](https://cr.is-a.dev/add?code=) Add A Player
 
 - [`/v1`](https://cr.is-a.dev/v1) Version 1.0.0
   - [`/v1/brawlers`](https://cr.is-a.dev/v1/brawlers) List Of Every Brawlers ( StarPowers, Gadgets )
   - `/v1/brawlers/:ID` Specific Brawler's Information
   - [`/v1/battlelog/:TAG`](https://cr.is-a.dev/v1/battlelog/) Player's Battlelog
   
-  
+ ### Websocket
+ 
+  *  Websocket - `wss://wscr.is-a.dev`
+  - ```Send A Tag To The Server => Response Data To The Client```
   
   ### About 
   
@@ -35,7 +38,7 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   
   ### Disclaimer 
   
-  This Project Was Made By A Fan Of Supercell Games And Not Affiliate With Supercell Or Brawl Stars. This Project Was Managed And Owned By [`@brawlie Team`](https://github.com/brawlie). This Is Not An Official API From Brawl Stars.
+  This Project Was Made By A Fan Of Supercell Games And Not Affiliate With Supercell Or Brawl Stars. This Project Was Managed And Owned By [`@brawlie Team`](https://github.com/brawlie). This Is Not An Official API From Brawl Stars. Made For Education Propose.
   
   
   
