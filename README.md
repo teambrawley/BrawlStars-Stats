@@ -27,9 +27,9 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   
  ### Websocket
  
-  *  Websocket - `wss://wscr.is-a.dev`
+  -  Websocket - `wss://wscr.is-a.dev`
   
-  *   ``` Send A Tag To The Server => Response Data To The Client```
+  -  ``` Send A Tag To The Server => Response Data To The Client```
 
 ```
 Example :
@@ -50,14 +50,13 @@ ws.onopen = function open() {
   Bs-api known as Brawl Stars Stats API is a service where you can get your brawlstars stats easily. Feel Free To Create An Issue If You Have Any Suggestions Or Questions.
   
   
-  
-  ### Disclaimer 
+### Disclaimer 
   
   This Project Was Made By A Fan Of Supercell Games And Not Affiliate With Supercell Or Brawl Stars. This Project Was Managed And Owned By [`@brawlie Team`](https://github.com/brawlie). This Is Not An Official API From Brawl Stars. Made For Education Propose.
   
   
   
-  ### License 
+### License 
   
   ``` 
   APACHE 2.0 License
