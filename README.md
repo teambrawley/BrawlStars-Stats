@@ -24,6 +24,7 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   - [`/v1/brawlers`](https://cr.is-a.dev/v1/brawlers) List Of Every Brawlers ( StarPowers, Gadgets )
   - `/v1/brawlers/:ID` Specific Brawler's Information
   - [`/v1/battlelog/:TAG`](https://cr.is-a.dev/v1/battlelog/) Player's Battlelog
+  - `/v1/clublog/:TAG` Clublog
  
  --------------------------------------------------------------------------------------------
   
