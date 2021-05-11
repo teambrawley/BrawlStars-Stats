@@ -49,7 +49,12 @@ ws.onopen = function open() {
 };
 ```
      
-  
+### [NPM Package](https://npmjs.com/bsapi.js)
+
+`bsapi.js` is an npm package that is used to make request and handle response from [BS-API](#) with Promise Base. 
+
+
+
 ### About 
   
   Bs-api known as Brawl Stars Stats API is a service where you can get your brawlstars stats easily. Feel Free To Create An Issue If You Have Any Suggestions Or Questions.
