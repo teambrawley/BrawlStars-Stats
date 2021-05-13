@@ -48,8 +48,10 @@ ws.onopen = function open() {
    console.log(JSON.parse(message.data))
 };
 ```
-     
-### [NPM Package](https://npmjs.com/bsapi.js)
+
+### Libraries
+
+- #### [NPM Package](https://npmjs.com/bsapi.js)
 
 `bsapi.js` is an npm package that is used to make request and handle response from [BS-API](#) with Promise Base. 
 
