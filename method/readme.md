@@ -10,7 +10,10 @@ Players
 Miscellaneous
 [`/support/:CODE`](https://cr.is-a.dev/support/:ID)     | * | - |
 [`/add/:TAG/?token=:CODE`](https://cr.is-a.dev/add/:TAG/?token=) | * | - |
-Club
+Club |
 [`/clubs/:TAG`](https://cr.is-a.dev/clubs/:TAG)         | * | * |
 [`/club/:TAG/clublog`](https://cr.is-a.dev/:TAG/clublog)| * | * |
 [`club/:TAG/members`](https://cr.is-a.dev/:TAG/members) | * | * |
+Rankings
+[`/rankings/clubs/:CODE`](https://cr.is-a.dev/rankings/clubs) | * | * |
+[`/rankings/players/:CODE`](https://cr.is-a.dev/rankings/players) | * | * |
