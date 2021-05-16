@@ -1,5 +1,6 @@
 title: Home
 # baseurl:      https://cr.is-a.dev
+url: https://cr.is-a.dev
 paginate:     1
 locale:       "en"
 
