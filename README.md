@@ -7,8 +7,9 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
 
 - [`/`](https://cr.is-a.dev) Home
    - `/:TAG` Players
+    - `/:TAG/brawlers` Player's Brawlers
 
-- [`/brawlers/:TAG`](https://cr.is-a.dev/brawlers/TAG) Get A Player's Brawlers 
+- [`/brawlers/:TAG`](https://cr.is-a.dev/brawlers/TAG) Get A Player's Brawlers ( `Overview : Name Only` )
  
 - [`/support/:CODE`](https://cr.is-a.dev/support/) Content Creator Code
 
@@ -18,7 +19,7 @@ Get Your BrawlStars Stats With [`bs-api`](https://cr.is-a.dev)
   - [`/rankings/clubs/:CODE`](https://cr.is-a.dev/rankings/clubs/) Clubs
   - [`/rankings/players/:CODE`](https://cr.is-a.dev/rankings/players/) Players
 
-- [`/add/:TAG?code=PASSWORD`](https://cr.is-a.dev/add?code=) Add A Player
+- [`/add/:TAG?token=:CODE`](https://cr.is-a.dev/add?code=) Add A Player As Friend 
 
 - [`/v1`](https://cr.is-a.dev/v1) Version 1.0.0
   - [`/v1/brawlers`](https://cr.is-a.dev/v1/brawlers) List Of Every Brawlers ( StarPowers, Gadgets )
